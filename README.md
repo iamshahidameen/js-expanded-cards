@@ -8,6 +8,8 @@
 
 Auto expanding cards when clicked on the card and these cards are responsive. This is built with Vanilla JS and CSS Flexbox.
 
+Project Demo: [https://expanded-cards-by-shahid.netlify.app/](https://expanded-cards-by-shahid.netlify.app/)
+
 ## Hi, I'm Shahid! 👋
 
 I’m a senior front-end developer having 6+ years of experience majorly in UI/UX web agencies. I’ve been using all the famous CSS frameworks like Bootstrap, Tailwind, Foundation etc for converting stunning mockups into cool web applications.
