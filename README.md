@@ -2,7 +2,7 @@
 
 ![Project Screenshot](https://50projects50days.com/img/projects-img/1-expanding-cards.png)
 
-<div>
+</div>
 
 # Expanding Cards
 
